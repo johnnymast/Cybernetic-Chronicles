@@ -16,6 +16,12 @@ Nothing here yet
 
 Nothing here yet
 
+## Install 
+
+~~~bash
+pip install -r requirements.txt
+~~~
+
 ## License
 
 MIT License
