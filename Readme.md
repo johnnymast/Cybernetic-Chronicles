@@ -22,6 +22,13 @@ Nothing here yet
 pip install -r requirements.txt
 ~~~
 
+## Running
+
+~~~bash
+uvicorn chronicles:server --reload
+~~~
+
+
 ## License
 
 MIT License
